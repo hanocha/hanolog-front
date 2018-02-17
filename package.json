@@ -18,5 +18,9 @@
   "homepage": "https://github.com/hanocha/hanolog-front#readme",
   "devDependencies": {
     "poi": "^9.6.13"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
