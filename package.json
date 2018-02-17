@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hanocha/hanolog-front#readme",
   "dependencies": {
+    "element-ui": "^2.2.0",
     "vue": "^2.5.13"
   },
   "devDependencies": {
