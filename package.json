@@ -2,7 +2,7 @@
   "name": "hanolog-front",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/hanocha/hanolog-front#readme",
   "devDependencies": {
-    "poi": "^9.6.13"
+    "node-sass": "^4.7.2",
+    "poi": "^9.6.13",
+    "sass-loader": "^6.0.6"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.5",
+    "recompose": "^0.26.0"
   }
 }
