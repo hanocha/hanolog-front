@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/hanocha/hanolog-front#readme",
   "devDependencies": {
-    "poi": "^9.6.13"
+    "node-sass": "^4.7.2",
+    "poi": "^9.6.13",
+    "sass-loader": "^6.0.6"
   },
   "dependencies": {
     "react": "^16.2.0",
